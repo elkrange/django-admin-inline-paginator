@@ -1,6 +1,6 @@
 //Script for cleaning action attr in form for Django-inline -paginator.
-<script>
-  (function ($) {
+(function ($) {
+  $(document).ready(function() {
     $('form').removeAttr('action');
-  })(django.jQuery);
-</script>
+  });
+})(django.jQuery);
