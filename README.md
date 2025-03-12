@@ -1,6 +1,12 @@
 Django Admin Inline Paginator
 =============================
 
+---
+
+**No longer used:** we stopped using this fork in https://github.com/elkrange/maroon-bells/pull/9756.
+
+---
+
 The "Django Admin Inline Paginator" is simple way to paginate your inline in django admin
 
 If you use or like the project, click `Star` and `Watch` to generate metrics and i evaluate project continuity.
